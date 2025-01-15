@@ -52,3 +52,10 @@ En resumen, las principales ventajas de utilizar TypeScript en el desarrollo con
 *   **Colaboración Facilitada:** La definición clara de tipos y el uso de interfaces simplifica el trabajo en equipo.
 *   **Herramientas Avanzadas:** El ecosistema de TypeScript ofrece herramientas avanzadas para mejorar la experiencia de desarrollo.
 *   **Menor Tiempo de Depuración:** La detección de errores en tiempo de desarrollo reduce el tiempo dedicado a la depuración.
+
+## Pregunta 5 ##
+### 5. Ventajas de TypeScript en el Desarrollo con ReactJS ###
+* Mejora la calidad del código, reduce errores y facilita el mantenimiento a largo plazo sobre todo por que los errores se muestran  en tiempo de programación .
+* TypeScript permite definir interfaces o tipado para las props, lo que hace que los errores de tipo sean detectados en tiempo de compilación.
+* Se puede tipar explícitamente el estado con useState, garantizando la coherencia de los datos.
+* El tipado explícito de TypeScript sirve como una forma de documentación implícita del código, facilitando la comprensión de la estructura del código y la colaboración entre desarrolladores.
